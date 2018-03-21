@@ -9,7 +9,7 @@ public class Login extends UserData{
 	public Login(String username, String password) {
 		super(username, password);
 		setUsername("danial_k007");
-		setPassword("arash007");
+		setPassword("****");
 	}
 
 	static AutomateSystem automateSystem;
